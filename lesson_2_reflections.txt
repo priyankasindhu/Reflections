@@ -1,0 +1,5 @@
+1> What happens when you initialize a repository? Why do you need to do it?
+Initializes create an empty git file.
+
+2> How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area gives an option to delete the file if we have made some mistake and do not want to commit it to GIT just yet but this file is not deleted from the working directory. Staging area gives us more control over things.
